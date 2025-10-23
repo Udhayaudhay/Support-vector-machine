@@ -1,5 +1,4 @@
-# Assignment17-Support-Vector-Machines
-ExcelR Data Science Assignment No 17
+# Support-Vector-Machines
 
 ## Support Vector Machine Algorithm (SVM) :
 
